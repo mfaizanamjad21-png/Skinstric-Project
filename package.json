@@ -1,5 +1,5 @@
 {
-  "name":"skinstric-project",
+  "name": "skinstric-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "gsap": "^3.12.7",
-    "next": "15.3.1",
+    "next": "^15.5.27",
     "react": "^19.0.0",
     "react-circular-progressbar": "^2.2.0",
     "react-dom": "^19.0.0",
